@@ -1,4 +1,11 @@
-# dataset_RJ
+NEED TO INSTALL
+----------------------------------------------------
+pip install pandas 
+----------------------------------------------------
+pip install scikit-learn
+----------------------------------------------------
+pip install pythainlp
+----------------------------------------------------
 pip install matplotlib
-pip install pandas scikit-learn pythainlp joblib
+----------------------------------------------------
 pip install joblib
