@@ -38,5 +38,3 @@ while True:
         print("⚠️ พบคำหยาบ\n")
     else:
         print("✅ ข้อความปกติ\n")
-
-ก
