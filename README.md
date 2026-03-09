@@ -9,3 +9,4 @@ pip install pythainlp
 pip install matplotlib
 ----------------------------------------------------
 pip install joblib
+----------------------------------------------------
